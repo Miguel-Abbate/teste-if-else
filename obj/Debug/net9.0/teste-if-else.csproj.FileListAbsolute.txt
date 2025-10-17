@@ -1,0 +1,15 @@
+C:\Users\AS\Desktop\codigosCS\teste-if-else\obj\Debug\net9.0\teste-if-else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AS\Desktop\codigosCS\teste-if-else\obj\Debug\net9.0\teste-if-else.AssemblyInfoInputs.cache
+C:\Users\AS\Desktop\codigosCS\teste-if-else\obj\Debug\net9.0\teste-if-else.AssemblyInfo.cs
+C:\Users\AS\Desktop\codigosCS\teste-if-else\obj\Debug\net9.0\teste-if-else.csproj.CoreCompileInputs.cache
+C:\Users\AS\Desktop\codigosCS\teste-if-else\obj\Debug\net9.0\teste-if-else.sourcelink.json
+C:\Users\AS\Desktop\codigosCS\teste-if-else\bin\Debug\net9.0\teste-if-else.exe
+C:\Users\AS\Desktop\codigosCS\teste-if-else\bin\Debug\net9.0\teste-if-else.deps.json
+C:\Users\AS\Desktop\codigosCS\teste-if-else\bin\Debug\net9.0\teste-if-else.runtimeconfig.json
+C:\Users\AS\Desktop\codigosCS\teste-if-else\bin\Debug\net9.0\teste-if-else.dll
+C:\Users\AS\Desktop\codigosCS\teste-if-else\bin\Debug\net9.0\teste-if-else.pdb
+C:\Users\AS\Desktop\codigosCS\teste-if-else\obj\Debug\net9.0\teste-if-else.dll
+C:\Users\AS\Desktop\codigosCS\teste-if-else\obj\Debug\net9.0\refint\teste-if-else.dll
+C:\Users\AS\Desktop\codigosCS\teste-if-else\obj\Debug\net9.0\teste-if-else.pdb
+C:\Users\AS\Desktop\codigosCS\teste-if-else\obj\Debug\net9.0\teste-if-else.genruntimeconfig.cache
+C:\Users\AS\Desktop\codigosCS\teste-if-else\obj\Debug\net9.0\ref\teste-if-else.dll
